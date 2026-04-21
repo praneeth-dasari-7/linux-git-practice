@@ -1,1 +1,1 @@
-echo "Hello devops engineer \n skills"
+echo "Hello devops engineer \n learning skills"
