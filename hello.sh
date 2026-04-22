@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 echo "===================================="
@@ -37,3 +38,5 @@ echo -e "\nListing files in current directory:"
 ls -l
 
 echo -e "\nScript execution completed successfully 🎉"
+=======
+echo "Hello devops engineer \n learning skills"
